@@ -1,6 +1,6 @@
-title: ""
-summary: ""
-topics: []
+title: "テスト"
+summary: "テスト"
+topics: ["react", "javascript"]
 published: false
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
